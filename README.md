@@ -56,7 +56,7 @@ You can either use the shared lambda layer or create your own using the AppScope
 ![Step1](https://quickstart-cribl-appscope.s3.amazonaws.com/screenshots/lambda/appscope_06.png)
 
 - Select `Specify an ARN`
-- Add the ARN `arn:aws:lambda:us-east-1:967222283187:layer:appscope:3`
+- Add the ARN `arn:aws:lambda:us-east-1:967222283187:layer:appscope:4`
 
 ![Step1](https://quickstart-cribl-appscope.s3.amazonaws.com/screenshots/lambda/appscope_07.png)
 
